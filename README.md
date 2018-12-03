@@ -4,13 +4,13 @@ Technicians can use a microscope to observe tissue samples that were taken from 
 
 #### Dataset Used: [Breast Cancer Wisconsin (Diagnostic)](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
-### Methods
+## Methods
 * Data Prep using Pandas DataFrames
 * Data Visualization using Seaborn (matplotlib)
 * Using Support Vector Machine (SVM) from scikit-learn
 * Improving the model, by employing MinMaxScaler
 * Using GridSearchCV to fine-tune hyper parameters
 
-### Screenshot
+## Screenshot
 
-<img src="https://i.imgur.com/v8fZJa6.png" alt="Screenshot">
+<img src="https://i.imgur.com/v8fZJa6.png" alt="Screenshot" width="500px">
